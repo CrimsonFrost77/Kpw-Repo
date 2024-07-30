@@ -9,9 +9,13 @@
   top: 0;
   left: 0;
   right: 0;
+  box-shadow: 0px 8px 8px 0px #2b802e;
+  border-radius: 3px;
+  padding-bottom: 8px;
+  padding-top: 5px;
 }
 .drpBtn{
-  background-color: rgb(0, 107, 71);
+  background-color: rgb(2, 122, 82);
   color: aliceblue;
   justify-content: start;
   align-items: start;
@@ -23,6 +27,8 @@
   margin-right: 5px;
   cursor:pointer;
   border-style: none;
+  box-shadow: 0px 8px 16px 0px #123d13 inset;
+  border-radius: 7px;
 }
 
 /* The container <div> - needed to position the dropdown content */
@@ -36,7 +42,7 @@
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: #f1f1f1;
+  background-color: #2b802e;
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
@@ -44,20 +50,24 @@
 
 /* Links inside the dropdown */
 .dropdown-content a {
-  color: black;
+  color: white;
   padding: 12px 16px;
   text-decoration: none;
   display: block;
 }
 
 /* Change color of dropdown links on hover */
-.dropdown-content a:hover {background-color: #ddd;}
+.dropdown-content a:hover {
+  background-color: #27972b;
+}
 
 /* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {display: block;}
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
-.dropdown:hover .drpBtn {background-color: #2b802e;}
+.dropdown:hover .drpBtn {
+  background-color: rgb(0, 146, 73);
+}
 
 .drpBtn:hover{
   background-color: rgb(0, 146, 73);

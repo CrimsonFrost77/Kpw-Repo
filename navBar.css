@@ -28,6 +28,7 @@
   flex: 1 1 auto;
   align-items: center;
   justify-content: flex-end;
+  margin-right: 20px; /* Add margin to the right */
 }
 
 .navbar .dropdown {

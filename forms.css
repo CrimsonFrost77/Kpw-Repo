@@ -1,9 +1,9 @@
 
-header {
+.formsPageHeading {
   background: #0d3d35;
   color: #fff;
   text-align: center;
   padding-top: 100px;
-  /*TO TEST NAVBAR FIXED FEATURE*/
-  padding-bottom: 100px;
+  
+  padding-bottom: 100px;/*TO TEST NAVBAR FIXED FEATURE*/
 }

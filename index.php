@@ -14,7 +14,7 @@
       </div>
       <div class="navbarSection">
         <div class="dropdown">
-          <a href="home.html">
+          <a href="index.php">
             <button class="drpBtn">Home</button>
           </a>
         </div>
@@ -51,7 +51,7 @@
           </div>
         </div>
         <div class="dropdown">
-          <a href="forms.html">
+          <a href="forms.php">
             <button class="drpBtn">Forms</button>
           </a>
           <div class="dropdown-content">

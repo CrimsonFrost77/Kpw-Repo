@@ -1,3 +1,0 @@
-<?php
-  eco "Hello World";
-?>

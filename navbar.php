@@ -2,6 +2,8 @@
 <div class = "navbar">
   <div class="imageSection">
     <img class="logoAtTop" src="Assets/kpLogo.png" alt="Kaliakair Pauroshova Logo">
+    <img class="logoAtTop" src="Assets/KPLogo_white,png" alt="Kaliakair Pauroshova Logo">
+        <!--this is a test comment-->
   </div>
   <div class="navbarSection">
     <div class="dropdown">

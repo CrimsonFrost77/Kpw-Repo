@@ -1,9 +1,8 @@
 <!-- navbar.php -->
 <div class = "navbar">
   <div class="imageSection">
-    <img class="logoAtTop" src="Assets/kpLogo.png" alt="Kaliakair Pauroshova Logo">
-    <img class="logoAtTop" src="Assets/KPLogo_white,png" alt="Kaliakair Pauroshova Logo">
-        <!--this is a test comment-->
+    <img class="logoAtTop" src="Assets/KPLogo_white.png" alt="Kaliakair Pauroshova Logo">
+  
   </div>
   <div class="navbarSection">
     <div class="dropdown">
@@ -12,6 +11,7 @@
       </a>
     </div>
     <div class="dropdown">
+    <a href="Location_maps.php">
       <button class="drpBtn">About</button>
     </div>
     <div class="dropdown">

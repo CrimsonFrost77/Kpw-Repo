@@ -27,7 +27,7 @@
             display: none;
         }
         img {
-            width: 100%;
+            width: 70%;
             height: auto;
         }
         .prev, .next {

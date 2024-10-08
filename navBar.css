@@ -9,7 +9,7 @@
   flex-direction: row;
   align-items: center; /* Center align vertically */
   justify-content: space-between; /* Space out the items */
-  background-color: #333; /* Example background color */
+  background-color: #00834c; 
   padding-left: 10px;
   padding-right: 25px;
   position: fixed; /* Fixed position */
@@ -23,6 +23,7 @@
 }
 
 .navbar .navbarSection {
+  background-color: #00834c; 
   display: flex;
   flex-direction: row;
   flex: 1 1 auto;
@@ -36,7 +37,7 @@
 }
 
 .navbar .drpBtn {
-  background-color: #333;
+  background-color: #00834c;
   color: white;
   padding: 16px;
   font-size: 16px;

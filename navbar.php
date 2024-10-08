@@ -13,11 +13,6 @@
     <div class="dropdown">
     <a href="Location_maps.php">
       <button class="drpBtn">About</button>
-      <div class="dropdown-content">
-        <a href="#">Link 1</a>
-        <a href="#">Link 2</a>
-        <a href="#">Link 3</a>
-      </div>
     </div>
     <div class="dropdown">
       <button class="drpBtn">Employees</button>

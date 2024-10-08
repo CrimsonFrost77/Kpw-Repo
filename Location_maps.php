@@ -27,7 +27,7 @@
             display: none;
         }
         img {
-            width: 70%;
+            width: 100%;
             height: auto;
         }
         .prev, .next {
@@ -57,14 +57,15 @@
 <body>
 <?php include 'navbar.php'; ?>
     <div class="slideshow-container">
+    <!--Giving image a class-->
         <div class="slide">
-            <img src="Assets\Maps\Map_1_1.jpg" alt="Slide 1">
+            <img class="slideImg" src="Assets\Maps\Map_1_1.jpg" alt="Slide 1">
         </div>
         <div class="slide">
-            <img src="Assets\Maps\Map_2_1.jpg" alt="Slide 2">
+            <img class="slideImg" src="Assets\Maps\Map_2_1.jpg" alt="Slide 2">
         </div>
         <div class="slide">
-            <img src="/api/placeholder/800/600" alt="Slide 3">
+            <img class="slideImg" src="/api/placeholder/800/600" alt="Slide 3">
         </div>
         <a class="prev" onclick="changeSlide(-1)">&#10094;</a>
         <a class="next" onclick="changeSlide(1)">&#10095;</a>

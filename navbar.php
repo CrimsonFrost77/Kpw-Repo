@@ -2,7 +2,7 @@
 <div class = "navbar">
   <div class="imageSection">
     <img class="logoAtTop" src="Assets/KPLogo_white.png" alt="Kaliakair Pauroshova Logo">
-        <!--this is a test comment-->
+  
   </div>
   <div class="navbarSection">
     <div class="dropdown">
@@ -11,6 +11,7 @@
       </a>
     </div>
     <div class="dropdown">
+    <a href="Location_maps.php">
       <button class="drpBtn">About</button>
       <div class="dropdown-content">
         <a href="#">Link 1</a>

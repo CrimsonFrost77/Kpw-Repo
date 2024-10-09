@@ -56,6 +56,7 @@
 </head>
 <body>
 <?php include 'navbar.php'; ?>
+<?php include 'backGpic.php'; ?>
     <div class="slideshow-container">
     <!--Giving image a class-->
         <div class="slide">

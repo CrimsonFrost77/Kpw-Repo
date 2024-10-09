@@ -9,5 +9,6 @@
   </head>
   <body>
     <?php include 'navbar.php'; ?>
+    <?php include 'backGpic.php'; ?>
   </body>
 </html>

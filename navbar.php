@@ -48,5 +48,4 @@
       <button class="drpBtn">Contacts</button>
     </div>
   </div>
-  <div class="red-half-circle"></div>
 </div>

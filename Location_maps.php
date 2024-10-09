@@ -26,8 +26,7 @@
         .slide {
             display: none;
         }
-        /*used class sideImg instead of general img*/
-        .slideImg {
+        img {
             width: 100%;
             height: auto;
         }

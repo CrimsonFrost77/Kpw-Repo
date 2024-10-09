@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="forms.css">
     <title>Simple Slideshow</title>
     <style>
-        body {
+        /*body {
             font-family: Arial, sans-serif;
             display: flex;
             justify-content: center;
@@ -17,7 +17,7 @@
             height: 100vh;
             margin: 0;
             background-color: #f0f0f0;
-        }
+        }*/
         .slideshow-container {
             max-width: 800px;
             position: relative;
